@@ -161,7 +161,7 @@ Contact
 
 Authors: Jorge Villacorta, Alejandro Tabernero, Alonso Mata
 
-Email: contact@example.com
+Email: alon28500@gmail.com
 
 LinkedIn: YourLinkedInProfile
 
