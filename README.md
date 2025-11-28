@@ -169,4 +169,4 @@ GitHub: YourGitHubUsername
 
 License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+Attribution-NonCommercial-NoDerivatives 4.0 International
