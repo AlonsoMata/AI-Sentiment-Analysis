@@ -42,7 +42,9 @@ This repository showcases strong applied machine learning, making it ideal for r
 - Modular structure  
 - Easily adaptable to new datasets  
 
-For more information read the pdf file.
+The file SVM_BERT_sript.py is just the union of the code in the jupyter notebook it is not a functional script.
+
+For more information on this project read the pdf file.
 ---
 
 Authors: Jorge Villacorta, Alejandro Tabernero, Alonso Mata
